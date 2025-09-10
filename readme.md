@@ -1,3 +1,3 @@
-# Projects
+# Weather App Project
+Using HTML, CSS, Javascript
 
-Projects using HTML,CSS & JAVASCRIPT
