@@ -1,4 +1,3 @@
-# Learn about git and github
+# Projects
 
-''''Javascript
-console.log("hello world)
+Projects using HTML,CSS & JAVASCRIPT
